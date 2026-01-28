@@ -103,10 +103,10 @@
 
         WIN_SYMBOL {
             bindings = <
-&kp LS(QMARK)     &kp CARET              &kp UNDERSCORE  &kp LS(PRCNT)          &kp PLUS                                   &kp LS(AT_SIGN)    &kp LS(RIGHT_BRACE)  &kp PIPE                  &kp LS(LT)    &kp LS(GT)
-&kp LEFT_BRACKET  &kp LS(POUND)          &kp LS(DLLR)    &kp COLON              &kp LS(LEFT_BRACE)                         &kp AMPERSAND      &kp LS(ASTERISK)     &kp LS(LEFT_PARENTHESIS)  &kp RS(RPAR)  &kp SQT
-&kp MINUS         &kp LS(DOUBLE_QUOTES)  &kp EQUAL       &kp LS(LA(BACKSLASH))  &kp LS(EXCL)                               &kp LA(BACKSLASH)  &kp RIGHT_BRACKET    &kp BACKSLASH             &kp FSLH      &kp UNDER
-&trans            &trans                 &trans          &trans                 &trans              &trans      &kp COMMA  &kp DOT                                                                         &kp DEL
+&kp LS(QMARK)     &kp CARET              &kp UNDERSCORE  &kp LS(PRCNT)      &kp PLUS                                   &kp LS(AT_SIGN)  &kp LS(RIGHT_BRACE)  &kp PIPE                  &kp LS(LT)    &kp LS(GT)
+&kp LEFT_BRACKET  &kp LS(POUND)          &kp LS(DLLR)    &kp COLON          &kp LS(LEFT_BRACE)                         &kp AMPERSAND    &kp LS(ASTERISK)     &kp LS(LEFT_PARENTHESIS)  &kp RS(RPAR)  &kp SQT
+&kp MINUS         &kp LS(DOUBLE_QUOTES)  &kp EQUAL       &kp LS(LA(SPACE))  &kp LS(EXCL)                               &kp SPACE        &kp RIGHT_BRACKET    &kp BACKSLASH             &kp FSLH      &kp UNDER
+&trans            &trans                 &trans          &trans             &trans              &trans      &kp COMMA  &kp DOT                                                                       &kp DEL
             >;
         };
 
