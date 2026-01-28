@@ -48,7 +48,7 @@
 &kp Q             &kp W         &kp E             &kp R      &kp T                                      &kp Y            &kp U  &lt 5 I   &kp O     &mt RIGHT_SHIFT P
 &kp A             &kp S         &kp D             &kp F      &kp G                                      &kp H            &kp J  &kp K     &kp L     &kp ENTER
 &mt LEFT_SHIFT Z  &kp X         &kp C             &kp V      &kp B                                      &kp N            &kp M  &mkp MB1  &mkp MB3  &mkp MB2
-&kp LCTRL         &kp LEFT_ALT  &kp LEFT_COMMAND  &lt 1 TAB  &lt 2 SPACE  &lt 3 LANG2      &lt 4 LANG1  &lt 4 BACKSPACE                             &lt 6 ESCAPE
+&kp LCTRL         &kp LEFT_ALT  &kp LEFT_COMMAND  &lt 1 TAB  &lt 2 SPACE  &lt 3 LANG2      &lt 7 LANG1  &lt 4 BACKSPACE                             &lt 6 ESCAPE
             >;
 
             sensor-bindings = <&inc_dec_kp PG_UP PAGE_DOWN>;
